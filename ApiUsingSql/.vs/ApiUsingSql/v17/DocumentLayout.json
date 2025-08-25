@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\controllers\\consumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\controllers\\consumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\controllers\\newapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\controllers\\newapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\views\\consume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\views\\consume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|c:\\users\\shan gul\\desktop\\sabir dot net project\\projects\\apiusingsql\\apiusingsql\\models\\studentdbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50022E66-B2FC-49A4-8D41-73EC69CB7A77}|ApiUsingSql\\ApiUsingSql.csproj|solutionrelative:apiusingsql\\models\\studentdbmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Views\\Consume\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiUsingSql\\Views\\Consume\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Views\\Consume\\Index.cshtml",
+              "RelativeToolTip": "ApiUsingSql\\Views\\Consume\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:51:09.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\ConsumeController.cs",
+              "RelativeDocumentMoniker": "ApiUsingSql\\Controllers\\ConsumeController.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\ConsumeController.cs",
+              "RelativeToolTip": "ApiUsingSql\\Controllers\\ConsumeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:38:36.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiUsingSql\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiUsingSql\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:05:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApiUsingSql\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApiUsingSql\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:05:25.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\NewApiController.cs",
+              "RelativeDocumentMoniker": "ApiUsingSql\\Controllers\\NewApiController.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Controllers\\NewApiController.cs",
+              "RelativeToolTip": "ApiUsingSql\\Controllers\\NewApiController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:49:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDbModel.Context.cs",
+              "DocumentMoniker": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Models\\StudentDbModel.Context.cs",
+              "RelativeDocumentMoniker": "ApiUsingSql\\Models\\StudentDbModel.Context.cs",
+              "ToolTip": "C:\\Users\\Shan Gul\\Desktop\\Sabir Dot Net project\\Projects\\ApiUsingSql\\ApiUsingSql\\Models\\StudentDbModel.Context.cs",
+              "RelativeToolTip": "ApiUsingSql\\Models\\StudentDbModel.Context.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:21:04.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

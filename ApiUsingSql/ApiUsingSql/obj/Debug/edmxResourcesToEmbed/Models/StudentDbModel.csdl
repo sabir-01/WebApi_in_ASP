@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="practiceModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="student">
+    <Key>
+      <PropertyRef Name="std_id" />
+    </Key>
+    <Property Name="std_id" Type="Int32" Nullable="false" />
+    <Property Name="std_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="std_gender" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="std_age" Type="Int32" />
+    <Property Name="std_class" Type="Int32" />
+    <Property Name="t_id" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="practiceEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="students" EntityType="Self.student" />
+  </EntityContainer>
+</Schema>
